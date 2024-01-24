@@ -34,5 +34,6 @@ The Arduino code utilizes the LedControl library for interfacing with the LED ma
 
 ## Video Link
 https://youtu.be/AJ90As1b4qo?si=A7aGfdrY79EJgg0w
+https://www.youtube.com/watch?v=9_zoNdbE-xU
 
 ![WhatsApp Image 2023-12-19 at 08 22 18](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/f28b05b7-e2f4-4314-b92b-46a26f3a40d1)
