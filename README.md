@@ -33,7 +33,7 @@ Breadboard </br>
 The Arduino code utilizes the LedControl library for interfacing with the LED matrix, along with a LiquidCrystal display for additional information. The game logic is implemented using structs for the snake and apple, and the joystick and button inputs are handled for player control. The code also incorporates EEPROM for saving and retrieving brightness and sound settings.
 
 ## Video Link
-https://youtu.be/AJ90As1b4qo?si=A7aGfdrY79EJgg0w
+https://youtu.be/AJ90As1b4qo?si=A7aGfdrY79EJgg0w </br>
 https://www.youtube.com/watch?v=9_zoNdbE-xU
 
 ![WhatsApp Image 2023-12-19 at 08 22 18](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/f28b05b7-e2f4-4314-b92b-46a26f3a40d1)
